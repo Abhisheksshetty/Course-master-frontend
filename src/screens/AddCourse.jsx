@@ -17,7 +17,6 @@ import SaveIcon from "@material-ui/icons/Save";
 import { GlobalState } from "../context/GlobalState";
 import axios from "axios";
 import { toast } from "react-toastify";
-import LoadingScreen from "react-loading-screen";
 import { useHistory, useParams } from "react-router-dom";
 
 const useStyles = makeStyles((theme) => ({
