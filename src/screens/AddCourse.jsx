@@ -15,7 +15,7 @@ import DeleteOutlineIcon from "@material-ui/icons/DeleteOutline";
 import AddIcon from "@material-ui/icons/Add";
 import SaveIcon from "@material-ui/icons/Save";
 import { GlobalState } from "../context/GlobalState";
-import axios from "axios";
+import axios from "axios"
 import { toast } from "react-toastify";
 import { useHistory, useParams } from "react-router-dom";
 
